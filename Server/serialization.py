@@ -3,12 +3,12 @@ import serial
 import time
 import csv
 import datetime
+import itertools
 import pandas as pd
 import plotly.express as px
 import numpy as np
 import scipy.integrate
 import scipy.signal
-import itertools
 
 
 
